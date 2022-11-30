@@ -1,5 +1,5 @@
 body{
-    background-color: crimson;
+    background-color:blueviolet;
 }
 
 h1{
@@ -8,4 +8,8 @@ h1{
 }
 marquee{
     color:gold
+}
+h3{
+    color:blanchedalmond;
+    font-size: 25px;
 }
